@@ -1,4 +1,4 @@
-# 💜 Olá, eu sou o André Pereira!
+# Olá, eu sou o André Pereira! 🤝🏾
 <p align="left">
   Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito. <br>
   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Faculdade Impacta Tecnologia</strong>, transformando cada aprendizado em projetos reais.
