@@ -60,9 +60,6 @@
   <a href="https://www.linkedin.com/in/andrepereira07" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/andre.pereira__?igsh=NHpyMWNzaXZmM280&utm_source=qr" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
 
 <div align="center">
