@@ -1,77 +1,88 @@
-# Olá, eu sou o André Pereira! 🤝🏾
-<p align="left">
-  Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito. <br>
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Faculdade Impacta Tecnologia</strong>, transformando cada aprendizado em projetos reais.
+<h1 align="center">Olá, eu sou o André Pereira 👋🏾</h1>
+
+<h3 align="center">
+  Software Engineer | Backend Java | REST APIs | SQL | Linux | Application Support
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrepereira07">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:andre.pds07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
+
+---
 
 ## Sobre mim
 
-- 🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> – Impacta Tecnologia
-- 📚 Foco atual em <strong>Python</strong>, <strong>Flask</strong>, <strong>Docker</strong> e <strong>PostgreSQL</strong>
-- 🐧 Uso diário de <strong>Linux</strong> e boas práticas com <strong>Git/GitHub</strong>
-- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software
-- ✨ Construindo portfólio e documentando a jornada como dev
+Sou **Software Engineer com foco em desenvolvimento backend e sustentação de aplicações em produção**. Atuo com **Java, JSP, APIs REST, SQL e Git**, desenvolvendo funcionalidades, integrações e correções em sistemas corporativos e legados.
+
+Minha experiência também envolve **Application Support, troubleshooting, análise de logs e Root Cause Analysis** em ambientes Linux, utilizando tecnologias como **ActiveMQ, Apache Tomcat, Nginx e ffmpeg**.
+
+Atuo ainda com **levantamento de requisitos, análise de fluxos de negócio e documentação técnica**, conectando necessidades dos usuários ao desenvolvimento de soluções. Sou graduado em **Análise e Desenvolvimento de Sistemas pela Faculdade Impacta Tecnologia**.
+
+Neste GitHub, compartilho projetos de backend, APIs, integrações, automação e computação em nuvem, utilizando principalmente **Java, Spring Boot, Python, Docker e AWS**.
 
 ---
-<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrepsousa/andrepsousa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrepsousa/andrepsousa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andrepsousa/andrepsousa/output/pacman-contribution-graph.svg">
-</picture>
+## Tecnologias
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,postgres,mysql,docker,git,github,linux,aws,maven,postman" alt="Tecnologias"/>
+</p>
 
+**Backend:** Java, JSP, Spring Boot, Python, Flask e APIs REST  
+**Banco de dados:** Oracle, Informix, PostgreSQL, MySQL e SQLite  
+**Infraestrutura e produção:** Linux, Docker, ActiveMQ, Apache Tomcat, Nginx e ffmpeg  
+**Qualidade e documentação:** Git, GitHub Actions, JUnit, Mockito, Pytest, Swagger e OpenAPI
 
-###
 ---
 
-## ⭐ GitHub Stats
-<a href="https://github.com/andrepsousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrepsousa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrepsousa&layout=compact&langs_count=6&theme=radical"/>
-</a>
+## Projetos em destaque
 
-## Tecnologias e linguagens 💻
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,docker)](https://skillicons.dev)
+### 🛒 [E-Commerce API — Java e Spring Boot](https://github.com/andrepsousa/jp-capacitacao-andre)
 
-### 🚀 Frameworks, bancos e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=flask,postgres,mysql)](https://skillicons.dev)
+API de e-commerce desenvolvida com **Java 21 e Spring Boot 3**, contendo gestão de categorias, catálogo de produtos, histórico de preços, controle de estoque e tratamento global de exceções.
 
-### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,figma,vscode,postman)](https://skillicons.dev)
+`Java` `Spring Boot` `JPA` `Hibernate` `JUnit` `Mockito` `Swagger`
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+---
 
-<p align="left"> 
-  Tenho me aprofundado em <strong>Python</strong>, com foco em <strong>Flask</strong> no back-end, além de <strong>Docker</strong> e <strong>PostgreSQL</strong> para ambiente e persistência. <br><br>
-  Também pratico <strong>Git/GitHub</strong> e <strong>Linux</strong> no dia a dia, aplicando conhecimentos em projetos pessoais e acadêmicos. <br><br>
-  Acredito que aprender construindo é o melhor caminho — transformo teoria em prática sempre que possível 🚀
-</p>
+### ☁️ [Serverless Order Processor](https://github.com/andrepsousa/serverless-order-processor)
+
+Microsserviço serverless para processamento assíncrono de pedidos, utilizando serviços gerenciados da AWS e arquitetura orientada a eventos.
+
+`AWS Lambda` `API Gateway` `SQS` `DynamoDB` `X-Ray` `Python` `Docker`
+
+---
+
+### 💬 [Supabase → Z-API](https://github.com/andrepsousa/supabase-zapi)
+
+Integração em Python que consulta contatos no Supabase e realiza o envio automatizado de mensagens pelo WhatsApp através da Z-API.
+
+`Python` `Supabase` `Z-API` `Docker` `Pytest` `GitHub Actions` `OpenAPI`
+
+---
+
+### 📦 [ProdManager API](https://github.com/andrepsousa/ProdManager)
+
+API REST para gerenciamento de produtos, com operações CRUD, persistência de dados e integração com autenticação.
+
+`Python` `Flask` `Keycloak` `SQLAlchemy` `SQLite` `Docker`
+
+---
+
+## Contato
+
+Estou aberto a conexões profissionais, troca de conhecimentos e oportunidades relacionadas a **Software Engineering, Backend Java, Systems Analysis e Application Support**.
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail ou me chame no LinkedIn! 💌✨
-</p>
-
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andre.pds07@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:andre.pds07@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-andre.pds07%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
-  <a href="https://www.linkedin.com/in/andrepereira07" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/andrepereira07">
+    <img src="https://img.shields.io/badge/LinkedIn-André_Pereira-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=andrepsousa.andrepsousa&left_color=darkviolet&right_color=orchid" width="80" />
-</div>
-
-<div align="center">
-  
-  [![André's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrepsousa&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  <img src="https://streak-stats.demolab.com?user=andrepsousa&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=andrepsousa&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
